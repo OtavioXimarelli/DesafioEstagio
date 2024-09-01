@@ -6,3 +6,5 @@ while( k < indice):
     soma = soma + k
     
 print(f'O valor da variavel soma é {soma}')
+
+# O valor da soma é 91
